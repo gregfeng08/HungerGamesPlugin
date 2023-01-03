@@ -1,0 +1,10 @@
+name: HungerGamesPlugin
+version: 1.0
+api-version: 1.18
+author: PyroMageEx
+main: me.PyroMageEx.HungerGamesPlugin.Main
+description: Hunger games
+
+commands:
+  hgp:
+    description: /hgp
